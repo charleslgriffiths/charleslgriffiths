@@ -67,7 +67,7 @@
 
 ## 🐍 Snake Animation:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/charleslgriffiths/charleslgriffiths/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/charleslgriffiths/charleslgriffiths/main/dist/snake-dark.svg?palette=github-dark" alt="Snake animation" />
 </p>
 
 ---
