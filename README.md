@@ -65,13 +65,6 @@
 
 ---
 
-## 🐍 Snake Animation:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/charleslgriffiths/charleslgriffiths/main/dist/snake-dark.svg?palette=github-dark" alt="Snake animation" />
-</p>
-
----
-
 ## 🌎 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/charleslgriffiths" target="blank">
