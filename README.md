@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me:
-- 🎓 Final-year **Computer Science** student at **Oxford Brookes University**
-- 🤖 Passionate about **AI, Machine Learning, and Software Development**
+- 🎓 **BSc (Hons) Computer Science** Graduate from **Oxford Brookes University**
+- 🤖 Looking to further develop my skills in order to begin to specialise in fields such as Software Development, UI/UX, Mobile App Development, Machine Learning, Cybersecurity, or Cloud Computing.
 - 🔭 Currently working on **SenseFit** – a machine learning-powered injury prediction app
-- 💻 Experienced in **AI-driven decision-making, neural networks, and full-stack development**
+- 💻 Experienced in a variety of programming languages
 - 👨‍💻 All of my projects are available at: [**charleslgriffiths.github.io**](https://charleslgriffiths.github.io)
 - 📫 How to reach me: **clg@gmx.co.uk**
 
