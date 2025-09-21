@@ -9,7 +9,7 @@
 
 ### 🚀 About Me:
 - 🎓 **BSc (Hons) Computer Science** Graduate from **Oxford Brookes University**
-- 🤖 Looking to further develop my skills in order to begin to specialise in fields such as Full-Stack Software & Mobile App Development, UI/UX, Using Machine Learning & AI to provide solutions, Penetration Testing to strengthen systems, or Cloud Engineering.
+- 🤖 Looking to further develop my skills in order to begin to specialise in fields such as Full-Stack Software & Mobile App Development, UI/UX, using Machine Learning & AI to provide solutions, Penetration Testing to strengthen systems, or Cloud Engineering.
 - 🔭 Currently working on **SenseFit** – a machine learning-powered injury prediction app
 - 💻 Experienced in a variety of programming languages and agile development.
 - 👨‍💻 All of my projects are available at: [**charleslgriffiths.github.io**](https://charleslgriffiths.github.io)
